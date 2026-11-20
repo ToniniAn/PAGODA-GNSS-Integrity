@@ -18,7 +18,7 @@ EASA, the FAA and ICAO recognise these risks and encourage anomaly detection and
 
 PAGODA aims to provide independent GNSS position verification by analysing images acquired by the UAV's existing camera and comparing them with available geospatial reference data.
 
-It does not require additional payloads or sensors and can work with openly available geospatial data. It requires basic time-synchronised flight metadata, with the aim of enabling integration across different UAV platforms without extensive modifications.
+It does not require additional sensors, antennas or payloads and can work with openly available geospatial data. It relies on basic time-synchronised video metadata, without requiring deep integration into existing UAV software. This approach makes it potentially compatible with a wide range of UAV cameras, provided the necessary metadata are available. Accurate camera calibration and lens distortion parameters, when available, may further improve positioning accuracy. 
 
 It is designed to alert operators when the reported GNSS position is inconsistent with the camera-based position estimate, including potentially gradual deviations associated with spoofing.
 
