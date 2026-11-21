@@ -42,4 +42,10 @@ The results, methodology and limitations are presented in the following report:
 
 ## Operational Needs Survey
 
-A questionnaire for UAV operators, manufacturers and developers is being prepared to assess operational needs, technical compatibility and the potential relevance of camera-based GNSS integrity monitoring.
+We invite UAV operators, manufacturers, researchers and developers to share their perspectives on the operational relevance and technical requirements of camera-based GNSS integrity monitoring.
+
+The questionnaire aims to assess practical needs, technical compatibility and the potential usefulness of this approach.
+
+**[Participate in the PAGODA Survey](https://docs.google.com/forms/d/e/1FAIpQLSe4pfuR7qvn452SN8WFtinOZQEudGntUO-CjnVBI-Q86o_lAw/viewform?usp=publish-editor)**
+
+Participation is voluntary. The questionnaire is intended for technical and research purposes.
