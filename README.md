@@ -36,7 +36,7 @@ The experiments investigated camera-based positioning, detection of an initially
 
 The results, methodology and limitations are presented in the following report:
 
-**[PAGODA — DJI Experimental Case Study](PAGODA_DJI_Case_Study.pdf)**
+**[PAGODA_Project_Case_Study.pdf](PAGODA_Project_Case_Study.pdf)**
 
 *The tests were conducted offline. Live operation and performance under real GNSS interference have not yet been validated.*
 
