@@ -7,7 +7,7 @@
 
 GNSS signal degradation, jamming and spoofing can disrupt UAV operations or prevent them from taking place. These risks are an increasingly important concern for UAV operators, including those operating outside conflict zones.
 
-EASA, the FAA and ICAO recognise these risks and encourage anomaly detection and independent position checks when GNSS information may be unreliable.
+EASA, the FAA and ICAO recognise these risks and promote measures to improve GNSS interference detection, operational resilience and the availability of alternative or complementary positioning and navigation capabilities.
 
 **References:**
 - [FAA — GNSS Jamming and Spoofing](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_1.16.html)
